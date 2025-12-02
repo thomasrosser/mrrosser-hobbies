@@ -1,10 +1,9 @@
 p {
-    /* Basic background and text settings */
-    font-family: Georgia, serif; /* A classic, readable font */
-    background-color: #ACCF8A; /* Light gray background */
-    color: #B07ED6 /* Dark gray text for readability */
-    margin: 0; /* Remove default body margin */
-    padding: 20px;
+
+    font-family: Georgia, serif; 
+    background-color: #ACCF8A;
+    color: #B07ED6 
+
 }
 
 
