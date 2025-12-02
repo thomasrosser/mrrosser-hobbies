@@ -1,8 +1,8 @@
 p {
     /* Basic background and text settings */
     font-family: Georgia, serif; /* A classic, readable font */
-    background-color: #FFBAE7; /* Light gray background */
-    color: #333; /* Dark gray text for readability */
+    background-color: #ACCF8A; /* Light gray background */
+    color: #B07ED6 /* Dark gray text for readability */
     margin: 0; /* Remove default body margin */
     padding: 20px;
 }
@@ -10,13 +10,13 @@ p {
 
 h1 {
 
-color: #ff0505;
+color: #7EAED6;
 font-family: Times, serif;
 
 }
 
 h2 { 
 
-    color: #FFBAE7;
+    color: #C37ED6;
 
 }
